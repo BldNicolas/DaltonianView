@@ -1,0 +1,6 @@
+2.0 totalité du spectre prit en compte par le programme et modifié (rendu pixélisé)
+2.1 modification de l'image pixélisé vers image en deuteranopia
+2.2 prend en compte les images où une valeur =0, ou =255
+2.3 prend en compte les images où une valeur =42, ou =85, ou =128, ou =170, ou =212
+2.4 ajout d'un chronometre
+2.5 ajout de 18 valeurs suplémentaires
